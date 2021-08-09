@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"Lua.runtime.builtin": {
+			"io": "disable",
+			"basic": "disable",
+			"debug": "disable",
+			"os": "disable"
+		},
+		"Lua.runtime.version": "Lua 5.3",
+		"Lua.workspace.library": [
+			"C:\\Users\\jonat\\Documents\\OpenComputers\\opencomputers_doc"
+		],
+		"terminal.explorerKind": "external",
+		"files.associations": {
+			"version": "cpp",
+			"filesystem": "cpp"
+		}
+	}
+}

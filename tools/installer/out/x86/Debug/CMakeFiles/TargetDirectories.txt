@@ -1,0 +1,4 @@
+C:/Users/jonat/Documents/OpenComputers/os/ShrineOS_2/tools/installer/out/x86/Debug/CMakeFiles/shrineos-install.dir
+C:/Users/jonat/Documents/OpenComputers/os/ShrineOS_2/tools/installer/out/x86/Debug/CMakeFiles/INSTALL.dir
+C:/Users/jonat/Documents/OpenComputers/os/ShrineOS_2/tools/installer/out/x86/Debug/CMakeFiles/ALL_BUILD.dir
+C:/Users/jonat/Documents/OpenComputers/os/ShrineOS_2/tools/installer/out/x86/Debug/CMakeFiles/ZERO_CHECK.dir

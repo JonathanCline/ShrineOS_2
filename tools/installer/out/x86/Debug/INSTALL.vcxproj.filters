@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jonat\Documents\OpenComputers\os\ShrineOS_2\tools\installer\out\x86\Debug\CMakeFiles\79d5a735ffd3ae3892c099923524e6c3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{30F1E02E-3FB8-303F-8052-9F797116F051}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
